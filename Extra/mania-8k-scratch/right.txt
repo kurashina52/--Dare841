@@ -1,0 +1,65 @@
+// Right Scratch
+[Mania]
+Keys: 8
+//Mania skin config
+ColumnStart: 336
+Barline: 0
+HitPosition: 400
+SpecialStyle: 0
+UpsideDown: 0
+JudgementLine: 0
+ScorePosition: 300
+ComboPosition: 275
+LightFramePerSecond: 24
+ColumnWidth: 28,25,28,25,28,25,28,45
+ColumnLineWidth: 0,0,0,0,0,0,0,0
+BarlineHeight: 0
+//Colours
+ColourLight1: 0,0,0,0
+ColourLight2: 0,0,0,0
+ColourLight3: 0,0,0,0
+ColourLight4: 0,0,0,0
+ColourLight5: 0,0,0,0
+ColourLight6: 0,0,0,0
+ColourLight7: 0,0,0,0
+ColourLight8: 0,0,0,0
+Colour1: 0,0,0,255
+Colour2: 0,0,0,255
+Colour3: 0,0,0,255
+Colour4: 0,0,0,255
+Colour5: 0,0,0,255
+Colour6: 0,0,0,255
+Colour7: 0,0,0,255
+Colour8: 0,0,0,255
+ColourHold: 255,255,255,255
+ColourHold: 255,230,0,255
+//images
+KeyImage4: mania-key1
+KeyImage4D: mania-key1D
+KeyImage5: mania-key2
+KeyImage5D: mania-key2D
+KeyImage6: mania-key1
+KeyImage6D: mania-key1D
+KeyImage7: mania-keyS
+KeyImage7D: mania-keySD
+
+NoteImage0: mania-note1
+NoteImage0H: mania-note1H
+NoteImage0L: mania-note1L
+NoteImage0T: mania-note1T
+NoteImage4: mania-note1
+NoteImage4H: mania-note1H
+NoteImage4L: mania-note1L
+NoteImage4T: mania-note1T
+NoteImage5: mania-note2
+NoteImage5H: mania-note2H
+NoteImage5L: mania-note2L
+NoteImage5T: mania-note2T
+NoteImage6: mania-note1
+NoteImage6H: mania-note1H
+NoteImage6L: mania-note1L
+NoteImage6T: mania-note1T
+NoteImage7: mania-notescratch
+NoteImage7H: mania-notescratchH
+NoteImage7L: mania-notescratchL
+NoteImage7T: mania-notescratchT

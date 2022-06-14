@@ -1,0 +1,43 @@
+// Left Scratch
+[Mania]
+Keys: 8
+//Mania skin config
+ColumnStart: 336
+Barline: 0
+HitPosition: 400
+SpecialStyle: 0
+UpsideDown: 0
+JudgementLine: 0
+ScorePosition: 300
+ComboPosition: 275
+LightFramePerSecond: 24
+ColumnWidth: 45,28,25,28,25,28,25,28
+ColumnLineWidth: 0,0,0,0,0,0,0,0
+BarlineHeight: 0
+//Colours
+ColourLight1: 0,0,0,0
+ColourLight2: 0,0,0,0
+ColourLight3: 0,0,0,0
+ColourLight4: 0,0,0,0
+ColourLight5: 0,0,0,0
+ColourLight6: 0,0,0,0
+ColourLight7: 0,0,0,0
+ColourLight8: 0,0,0,0
+Colour1: 0,0,0,255
+Colour2: 0,0,0,255
+Colour3: 0,0,0,255
+Colour4: 0,0,0,255
+Colour5: 0,0,0,255
+Colour6: 0,0,0,255
+Colour7: 0,0,0,255
+Colour8: 0,0,0,255
+ColourHold: 255,255,255,255
+ColourHold: 255,230,0,255
+//images
+KeyImage0: Mania-keyS
+KeyImage0D: Mania-KeySD
+
+NoteImage0: mania-notescratch
+NoteImage0H: mania-notescratchH
+NoteImage0L: mania-notescratchL
+NoteImage0T: mania-notescratchT
